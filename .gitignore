@@ -3,7 +3,6 @@ target
 .settings
 .classpath
 .project
-.ensime_cache
-.ensime
-ensime-langserver.log
 settings.json
+.bloop
+.metals
